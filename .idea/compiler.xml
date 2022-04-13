@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-kotlin.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-A_capital_letter_or_a_digit.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-Compare_Latin_letters.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-Comparing_numbers_and_characters.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-Sequence.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Characters-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Division.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Get_last_digit.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-Vowel_or_not.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Declaring_functions-What_should_be_specified.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-Count_the_numbers.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-For-loop_definitions.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-The_minimum_value_of_N_numbers.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-The_product_of_numbers_from_a_to_b.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-For_loop_and_ranges-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-Knights.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-Queens.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-The_max_of_two_numbers_without_else-branch.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-If_expression-Triangle.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Declaring_Long.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Desks.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-How_many_nuts_will_be_left_after_division.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integers_in_action-Time_difference.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Between_two_numbers.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Check_the_value.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Within_a_range.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Ranges-Within_both_ranges.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Reading_data_with_a_readln-Fix_the_input.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Reading_data_with_a_readln-How_to_learn_the_whole_Kotlin_per_one_task.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Reading_data_with_a_readln-Read_a_Double.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Reading_data_with_a_readln-Reversed_output.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Reading_data_with_a_readln-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Reading_data_with_a_readln-toDouble__.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Are_the_numbers_different.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Boys_in_the_sport_class.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Inbetween.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Repeating_blocks-Grades.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Repeating_blocks-Maximum_element_divisible_by_4.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Repeating_blocks-Print_a_string_exactly_ten_times.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Repeating_blocks-Size_of_parts.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Repeating_blocks-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Standard_input-Printing_each_word_in_a_new_line.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Standard_input-Read_and_print.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Standard_input-Successful_reading.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Standard_input-Syntax_issues.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Standard_input-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-String_templates-Arithmetic_expression.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-String_templates-Print_two_numbers_on_the_same_line.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-String_templates-Repetitions_and_templates.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-String_templates-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_classification_of_basic_types-Size,_min_and_max.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_classification_of_basic_types-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_classification_of_basic_types-Upper_possible_value.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Type_conversion-Cutting_the_fraction.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Type_conversion-Simple_converter.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Type_conversion-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-While_loops-Balance_checker.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-While_loops-The_first_position_of_the_largest_element.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-While_loops-The_sequence_1_2_2_3_3_3.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-While_loops-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-While_loops-What_does_the_code_print.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Length_check.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-N-th_symbol.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-The_information_about_a_person.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-The_number_of_tens.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Working_with_strings-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
